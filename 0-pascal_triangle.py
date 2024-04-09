@@ -4,6 +4,7 @@ Module 0-pascal_triangle.py
 In this function it will generate pascal triangle
 """
 
+
 def fact(numb):
     """this method will return the factorial of the number"""
     if numb == 0 or numb == 1:
