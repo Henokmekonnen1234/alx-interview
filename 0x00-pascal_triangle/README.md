@@ -1,2 +1,1 @@
-##Alx interview projects
-	this projects will prepare us for interview question
+# 0x00-pascal_triangle
